@@ -12,7 +12,7 @@
 - [x] Step 1 — Chat types (enums, interfaces, unions)
 - [x] Step 2 — Stream, Notes, Analytics types (Omit, Pick, Record, generics)
 - [x] Step 3 — Dashboard shell (Sidebar, Header, view switching)
-- [ ] Step 4 — Go-Live Checklist (Zustand state management)
+- [x] Step 4 — Go-Live Checklist (Zustand state management)
 - [ ] Step 5 — Stream Notes (clip markers, keyboard shortcuts)
 - [ ] Step 6 — Backend (Express, SQLite, API routes)
 - [ ] Step 7 — WebSockets (real-time communication)
